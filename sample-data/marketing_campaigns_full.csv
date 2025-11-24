@@ -1,0 +1,11 @@
+campaign_id,campaign_name,source,medium,spend_usd,clicks,conversions,revenue_usd
+1,Summer Boost,Google,CPC,550,800,45,900
+2,Holiday Blast,Meta,CPC,1200,1900,80,2200
+3,Lead Surge,Bing,CPC,430,620,22,520
+4,Prime Traffic,Google,Display,980,1400,60,1200
+5,Conversion Max,Taboola,Native,620,880,41,840
+6,Weekend Promo,Meta,CPC,750,1100,55,1010
+7,Back to School,Google,Display,890,1500,70,1450
+8,Health Drive,Bing,CPC,410,540,18,410
+9,Auto Push,Meta,CPC,1320,2100,95,2600
+10,Winter Promo,Taboola,Native,500,720,30,690
